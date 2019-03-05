@@ -1,2 +1,5 @@
 # Hello_China
-I just thinking.
+"""
+学习是一个积累的过程
+坚持积累的先决条件
+"""
